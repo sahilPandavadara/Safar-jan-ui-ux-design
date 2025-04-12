@@ -10,4 +10,8 @@ Safar Jan is designed to connect travellers with like-minded companions to addre
 
 **Figma file Link:** https://www.figma.com/design/Zmyi7afKUTvYtHmPc1Ajs7/Safar-jan-Ux-project?node-id=703-2&t=KbS5wpPefVcrjQLT-1
 
+Group members:
 
+Sahil Pandavadara 202201151
+Meet mahaliya 202201204
+Praneel Vania 202201131
