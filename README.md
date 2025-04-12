@@ -1,7 +1,13 @@
 # Safar-jan-ui-ux-design
 Problem statement
-Lack of a structured platform for travelers to find compatible companions leads to fragmented trip planning and coordination challenges.
+The lack of a structured platform for travelers to find compatible companions leads to fragmented trip planning and coordination challenges.
 
-Figma prototype Link: 
+Project overview:
+Safar Jan is designed to connect travellers with like-minded companions to address the increasing demand for a structured travel networking platform. The app offers a streamlined experience for users to plan and manage group trips collaboratively, ensuring a seamless and enjoyable journey through efficient itinerary coordination and logistics management.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/Zmyi7afKUTvYtHmPc1Ajs7/Safar-jan-Ux-project?page-id=30%3A643&node-id=448-620&viewport=144%2C288%2C0.14&scaling=scale-down&content-scaling=fixed&starting-point-node-id=172%3A346&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
+
+**Figma prototype Link:** https://www.figma.com/proto/Zmyi7afKUTvYtHmPc1Ajs7/Safar-jan-Ux-project?page-id=30%3A643&node-id=448-620&viewport=144%2C288%2C0.14&t=RQfaP3QE4VlEcKY1-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=172%3A346&show-proto-sidebar=1
+
+**Figma file Link:** https://www.figma.com/design/Zmyi7afKUTvYtHmPc1Ajs7/Safar-jan-Ux-project?node-id=703-2&t=KbS5wpPefVcrjQLT-1
+
+
