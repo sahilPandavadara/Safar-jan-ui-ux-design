@@ -1,3 +1,6 @@
+
+![Image](https://github.com/user-attachments/assets/e2eab16a-7502-4902-b751-7cedc1351473)
+
 # Safar-jan-ui-ux-design
 Problem statement
 The lack of a structured platform for travelers to find compatible companions leads to fragmented trip planning and coordination challenges.
